@@ -2,12 +2,12 @@
 lab:
   title: '랩 00: 랩 환경 유효성 검사'
   module: 'Module 0: Welcome'
-ms.openlocfilehash: d5886a54ef4531d68bfa5da28ba2542ddb0cd463
-ms.sourcegitcommit: 08d43004a29343fed5b35bf6819ba38b074201f3
+ms.openlocfilehash: 082d0853be7780d0a49c949d9c60851a7f30b7a8
+ms.sourcegitcommit: 7001996e0238a23639a4d9ce16e68a201393abfb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2022
-ms.locfileid: "139687274"
+ms.lasthandoff: 03/22/2022
+ms.locfileid: "140748970"
 ---
 # <a name="lab-00-validate-lab-environment"></a>랩 00: 랩 환경 유효성 검사
 # <a name="student-lab-manual"></a>학생용 랩 매뉴얼
@@ -32,5 +32,7 @@ ms.locfileid: "139687274"
 16. 백 엔드에 새로운 설정이 반영되도록 **3시간 기다린 후에 CI/CD** 기능을 사용합니다. 그렇지 않으면 *“최대 요청 수에 도달했기 때문에 이 에이전트가 실행되지 않습니다..."* 메시지가 계속 표시됩니다.
 17. 조직 설정에서 보안 -> **정책** 으로 이동합니다.
 18. “OAuth를 통한 타사 애플리케이션 액세스”를 **설정합니다**.
+    > 참고: OAuth 설정으로 DemoDevOpsGenerator와 같은 도구에서 확장을 등록할 수 있습니다. 이 기능이 없으면 필요한 확장이 부족하여 일부 랩이 실패할 수 있습니다.
 19. “공용 프로젝트 허용”을 **설정합니다**.
+    > 참고: 공용 프로젝트 설정으로 특정 랩에서 일부 확장의 무료 버전을 사용할 수 있습니다.
 20. 선택 사항: 빌드 파이프라인을 만들고 트리거하여 이 새 설정이 정상적으로 적용되었는지 확인할 수 있습니다. 이렇게 하려면 강사에게 말하거나 [Azure DevOps 데모 생성기 도구](https://azuredevopsdemogenerator.azurewebsites.net)를 사용하여 청구 사용이 설정된 새로 만든 조직에 데모 프로젝트를 만듭니다.
