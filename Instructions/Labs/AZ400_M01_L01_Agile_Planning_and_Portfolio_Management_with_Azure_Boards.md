@@ -50,7 +50,7 @@ lab:
     ![Azure DevOps 생성기 웹 사이트 "로그인" 옵션 클릭](images/m1/demo_signin_v1.png)
 
 1. 필요한 경우 **Azure DevOps 데모 생성기** 페이지에서 **수락**을 클릭하여 Azure DevOps 구독에 액세스하는 데 필요한 권한 요청을 수락합니다.
-1. **새 프로젝트 만들기** 페이지의 **새 프로젝트 이름** 텍스트 상자에 **Azure Boards를 사용하여 Agile 계획 및 포트폴리오 관리**를 입력하고 **조직 선택** 드롭다운 목록에서 Azure DevOps 조직을 선택한 후에 **템플릿 선택**을 클릭합니다.
+1. **새 프로젝트 만들기** 페이지의 **새 프로젝트 이름** 텍스트 상자에 **PartsUnlimited**를 입력하고 **조직 선택** 드롭다운 목록에서 Azure DevOps 조직을 선택한 후에 **템플릿 선택**을 클릭합니다.
 1. 템플릿 목록에서 **PartsUnlimited** 템플릿을 찾은 다음 **템플릿 선택**을 클릭합니다.
 
     ![Azure DevOps 생성기 웹 사이트 템플릿 선택 창에서 "PartsUnlimited" 선택](images/m1/pu_template_v1.png)
