@@ -77,7 +77,7 @@ lab:
 
 1. 이전 연습에서 생성한 **Azure Boards를 사용하여 Agile 계획 및 포트폴리오 관리** 프로젝트를 진행할 Azure DevOps 조직이 웹 브라우저에 표시되어 있는지 확인합니다.
 
-    > **참고**: [<https://dev.azure.com/>`<your-Azure-DevOps-account-name>` /Agile%20Planning%20and%20Portfolio%20Management%20with%20Azure%20Boards) URL로 직접 이동하여 프로젝트 페이지에 액세스할 수도 있습니다. 여기서 `<your-Azure-DevOps-account-name>` 자리 표시자는 사용자의 계정 이름을 나타냅니다.
+    > **참고**: [<https://dev.azure.com/>`<your-Azure-DevOps-account-name>` /PartsUnlimited) URL로 직접 이동하여 프로젝트 페이지에 액세스할 수도 있습니다. 여기서 `<your-Azure-DevOps-account-name>` 자리 표시자는 사용자의 계정 이름을 나타냅니다.
 
 1. 페이지 왼쪽 아래에 있는 레이블이 **프로젝트 설정**인 톱니바퀴 모양 아이콘을 클릭하여 **프로젝트 설정** 페이지를 엽니다.
 
